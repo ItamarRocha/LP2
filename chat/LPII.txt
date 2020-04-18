@@ -1,0 +1,60 @@
+[12-04-2020-18:05:54]iTA(127.0.0.1) join the chatroom
+[12-04-2020-18:06:03]Paulo(127.0.0.1) join the chatroom
+[12-04-2020-18:06:08]Sergio(127.0.0.1) join the chatroom
+[12-04-2020-18:06:12]Sergio：bom dia
+[12-04-2020-18:06:19]iTA：tudo bem com vocês?
+[12-04-2020-18:06:27]Paulo：aqui tá tudo certo!
+[12-04-2020-18:06:37]iTA：já fizeram o trabalho de LPII?
+[12-04-2020-18:06:40]Paulo：já
+[12-04-2020-18:06:45]Sergio：to terminando agora
+[12-04-2020-18:06:50]Sergio：vai dar certo
+[12-04-2020-18:07:09]Bidu(127.0.0.1) join the chatroom
+[12-04-2020-18:07:28]Bidu：Muito bem pessoal. Daqui pra sexta saem as notas
+[12-04-2020-18:07:32]Paulo：show
+[12-04-2020-18:07:34]Sergio：blz
+[12-04-2020-18:07:42]iTA：vou enviar agora, falou galera
+[12-04-2020-18:07:44]iTA(127.0.0.1) leave the chatroom.
+[12-04-2020-18:07:46]Bidu(127.0.0.1) leave the chatroom.
+[12-04-2020-18:07:52]Paulo：xau xau
+[12-04-2020-18:07:55]Sergio：valeu
+[12-04-2020-18:07:56]Sergio(127.0.0.1) leave the chatroom.
+[12-04-2020-18:07:57]Paulo(127.0.0.1) leave the chatroom.
+[12-04-2020-18:30:53]Itamar(127.0.0.1) join the chatroom
+[12-04-2020-18:31:06]Paulo(127.0.0.1) join the chatroom
+[12-04-2020-18:31:16]Jonas(127.0.0.1) join the chatroom
+[12-04-2020-18:31:17]Jonas：oi
+[12-04-2020-18:31:20]Paulo：iai
+[12-04-2020-18:31:24]Itamar：olá
+[12-04-2020-18:31:28]Paulo：tudo bem?
+[12-04-2020-18:31:30]Jonas(127.0.0.1) leave the chatroom.
+[12-04-2020-18:31:31]Paulo(127.0.0.1) leave the chatroom.
+[12-04-2020-18:31:32]Itamar(127.0.0.1) leave the chatroom.
+[12-04-2020-18:37:20]Itamar(127.0.0.1) join the chatroom
+[12-04-2020-18:37:24]Paulo(127.0.0.1) join the chatroom
+[12-04-2020-18:37:29]Sergio(127.0.0.1) join the chatroom
+[12-04-2020-18:37:34]Sergio：último teste?
+[12-04-2020-18:37:39]Itamar：isso mesmo
+[12-04-2020-18:37:49]Paulo：show de bola
+[12-04-2020-18:37:52]Itamar：pronto
+[12-04-2020-18:37:56]Itamar：acho que ta ok
+[12-04-2020-18:37:59]Paulo：também acho
+[12-04-2020-18:38:02]Sergio：concordo
+[12-04-2020-18:38:07]Sergio：vou enviar aqui
+[12-04-2020-18:38:09]Sergio：falou
+[12-04-2020-18:38:11]Itamar：valeu
+[12-04-2020-18:38:15]Paulo：abraço
+[12-04-2020-18:38:16]Paulo(127.0.0.1) leave the chatroom.
+[12-04-2020-18:38:17]Itamar(127.0.0.1) leave the chatroom.
+[12-04-2020-18:38:19]Sergio(127.0.0.1) leave the chatroom.
+[12-04-2020-18:43:37]Paulo(127.0.0.1) join the chatroom
+[12-04-2020-18:43:40]Paulo(127.0.0.1) join the chatroom
+[12-04-2020-18:43:46]Paapi(127.0.0.1) join the chatroom
+[12-04-2020-18:43:48]Paapi：oi
+[12-04-2020-18:43:50]Paulo：iai
+[12-04-2020-18:43:52]Paulo：ola
+[12-04-2020-18:43:56]Paulo：tmj amigos
+[12-04-2020-18:43:58]Paapi：oh yes
+[12-04-2020-18:44:03]Paulo：au au a uaauauuaua au auauauauauauua
+[12-04-2020-18:44:04]Paapi(127.0.0.1) left the chatroom.
+[12-04-2020-18:44:05]Paulo(127.0.0.1) left the chatroom.
+[12-04-2020-18:44:05]Paulo(127.0.0.1) left the chatroom.
